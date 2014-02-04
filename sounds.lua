@@ -1,0 +1,5 @@
+ muzyka01=love.audio.newSource("sounds/melodia01.ogg","stream")
+ strzal_sfx=love.audio.newSource("sounds/strzal.ogg","static")
+ trafiony_sfx=love.audio.newSource("sounds/trafiony.ogg","static")
+ porwany_sfx=love.audio.newSource("sounds/porwany.ogg","static")
+ uratowany_sfx=love.audio.newSource("sounds/uratowany.ogg","static")
